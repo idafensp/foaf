@@ -28,9 +28,6 @@
       "foaf:based_near": {
         "@id": "dbpedia:Madrid"
       },
-      "foaf:currentProject": {
-        "@id": "http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/activeprojects/291-almistack"
-      },
       "foaf:family_name": "Santana-Perez",
       "foaf:givenname": "Idafen",
       "foaf:holdsAccount": {
